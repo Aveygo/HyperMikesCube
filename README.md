@@ -1,4 +1,12 @@
-# Hyper Mikes Cube
+```
+   __ __                    __  ____ __             _____     __            ________        
+  / // /_ _____  ___ ____  /  |/  (_) /_____ ___   / ___/_ __/ /  ___      /⠡      /\       
+ / _  / // / _ \/ -_) __/ / /|_/ / /  '_/ -_|_-<  / /__/ // / _ \/ -_)    /  ⠡..../..\      
+/_//_/\_, / .__/\__/_/   /_/  /_/_/_/\_\\__/___/  \___/\_,_/_.__/\__/    /___⠌___/   /       
+     /___/_/                                                             \  ⠌    \  /        
+                                            An experimenal project        \⠌______\/         
+
+```
 https://www.youtube.com/watch?v=g9n0a0644B4
 
 Given a number of cubes, how many ways could you uniquely arrange them? 
