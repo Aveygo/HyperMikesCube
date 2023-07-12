@@ -18,6 +18,8 @@ This results in a probabilistic method (which *is* suboptimal) of finding the nu
 1. Rotation and flipping is not accounted for.
 2. It still takes quite a bit of computation.
 3. I have a potato as a PC.
+4. Have no idea when it converges (if it does?)
+5. Zero regard for multithreading, etc, just an experiment.
 
 ## Results
 todo
