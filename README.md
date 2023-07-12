@@ -1,5 +1,6 @@
 # Hyper Mikes Cube
 https://www.youtube.com/watch?v=g9n0a0644B4
+
 Given a number of cubes, how many ways could you uniquely arrange them? 
 
 ## The algorithm
@@ -11,7 +12,7 @@ Given a number of cubes, how many ways could you uniquely arrange them?
 6. Profit???
 7. Estimated arrangements = 2 ^ harmonic mean of buckets.
 
-This results in a probabilistic method (which is suboptimal) of finding the number of cubes, but comes with far less coding, complexity, easy multithreading/scaling, and imo is "good enough" to at least get an estimate for larger numbers of cubes.
+This results in a probabilistic method (which *is* suboptimal) of finding the number of cubes, **but** comes with far less coding, complexity, easy multithreading/scaling, and imo is "good enough" to at least get an estimate for larger numbers of cubes.
 
 ## Caveats
 1. Rotation and flipping is not accounted for.
